@@ -11,7 +11,7 @@ export default {
         sans: ['DM Sans', 'sans-serif'],
       },
       colors: {
-        customBlack: '#030000',
+        customBlack: '#000401',
         customWhite: '#f5f3f4',
         customGreen: '#25D366',
       },

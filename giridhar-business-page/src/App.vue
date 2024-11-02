@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex flex-col bg-black text-white">
+  <div class="min-h-screen flex flex-col text-white">
     <div class="container mx-auto flex-grow flex flex-col justify-center items-center p-2">
       <Home />
     </div>
